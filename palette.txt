@@ -1,0 +1,7 @@
+Color palette
+
+#7B7281 - Old Lavender-1
+#051D41 - Oxford Blue
+#786A78 - Old Lavender-2
+#304162 - Dark Cornflower Blue
+#92636E - Mauve Taupe
